@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+
+.outernav {
+  position: relative;
+  width: 281px;
+  height: 900px;
+  left: 0px;
+  top: 0px;
+  background: #151516;
+  backdrop-filter: blur(10px);
+}
+
+p {
+  margin: 0;
+}
+
+.clip-contents {
+  overflow: hidden;
+}
+
+.nav_flex-col {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 205.33px;
+  height: 8.74px;
+  left: 20px;
+  top: 117px;
+}
+
+.nav_frame-86 {
+  padding: 62.93px 41.93px 23.19px 18.93px;
+  box-sizing: border-box;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+  position: relative;
+  width: 281px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+}
+
+.nav_txt-575 {
+  position: relative;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 140%;
+  display: flex;
+  align-items: center;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.nav_group-2101 {
+  width: 205.33px;
+  height: 8.74px;
+}
+
+.nav-links {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px 8px;
+  position: relative;
+  width: 281px;
+  height: 266px;
+  left: 0px;
+  top: 0px;
+}
+
+.challenge-nav-item {
+  padding: 7px 15px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  width: 261px;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 16px;
+}
+
+.nav_container {
+  width: 45px;
+  height: 45px;
+  margin-right: 10px;
+}
+
+.nav_text-container {
+  padding: 9px 0px;
+  box-sizing: border-box;
+  width: 66.7%;
+}
+
+.txt-414 {
+  font-size: 17px;
+  font-family: Proxima Nova, sans-serif;
+  font-weight: 500;
+  line-height: 118%;
+  letter-spacing: 0.2px;
+  color: rgba(255, 255, 255, 0.65);
+  width: 174px;
+  height: 18px;
+  word-wrap: break-word;
+}
+
+.challenge-nav-item {
+  padding: 7px 15px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  width: 92.9%;
+}
+
+.dashboard {
+  font-size: 17px;
+  font-family: Proxima Nova, sans-serif;
+  font-weight: 500;
+  line-height: 105%;
+  letter-spacing: 0.2px;
+  color: rgba(255, 255, 255, 0.9);
+  width: 174px;
+  height: 18px;
+  word-wrap: break-word;
+}
+
+.challenge-nav-item {
+  padding: 7px 15px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  width: 92.9%;
+}
+
+.dashboard-1 {
+  font-size: 17px;
+  font-family: Proxima Nova, sans-serif;
+  font-weight: 500;
+  line-height: 118%;
+  letter-spacing: 0.2px;
+  color: rgba(255, 255, 255, 0.65);
+  width: 174px;
+  height: 20px;
+  word-wrap: break-word;
+}

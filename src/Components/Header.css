@@ -1,0 +1,72 @@
+p {
+  margin: 0;
+}
+
+.outerheader {
+  position: relative;
+  width: 1159px;
+  height: 508px;
+  background-image: url(https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6cf6/ecf8/31a338d8117d4de886616b96d6bef5a0);
+  background-size: 100% 100%;
+}
+
+.clip-contents {
+  overflow: hidden;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-vcenter {
+  display: flex;
+  align-items: center;
+}
+
+.header_display {
+  position: relative;
+  width: 582px;
+  height: 42px;
+  left: 0px;
+  top: 143px;
+  font-size: 40px;
+  font-family: Proxima Nova, sans-serif;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: -1.1px;
+  color: rgba(255, 255, 255, 1);
+  word-wrap: break-word;
+  margin-bottom: 16px;
+}
+
+.innerbox {
+  position: relative;
+  width: 600px;
+  top: 0px;
+  left: 211px;
+  height: 100%;
+}
+
+.header_number-here {
+  position: relative;
+  width: 498px;
+  height: 40px;
+  left: 0px;
+  top: 152px;
+}
+
+.header_txt-973 {
+  font-family: Proxima Nova;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 120%;
+  color: rgba(255, 255, 255, 0.76);
+}
+
+.headerbutton {
+  position: relative;
+  left: 0px;
+  top: 270px;
+}

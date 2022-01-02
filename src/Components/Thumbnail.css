@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+
+p {
+  margin: 0;
+}
+
+.clip-contents {
+  overflow: hidden;
+}
+
+.thumbresume {
+  padding: 57px 2px 0px 0px;
+  box-sizing: border-box;
+  background: url(https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5694/6a0d/363c8755505fddba50ca703c052abad8);
+  background-size: cover;
+  width: 275px;
+  height: 155px;
+}
+
+.rectangle-3266 {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 0, 107, 1) 0%,
+    rgba(165, 0, 243, 1) 99.99%
+  );
+  width: 51.1%;
+  height: 5.2%;
+  position: relative;
+  top: 25%;
+}
+
+.timestamp {
+  box-sizing: border-box;
+  border-radius: 12px;
+  background-color: rgba(2, 0, 5, 1);
+  width: 21%;
+  height: 22%;
+  position: relative;
+  left: 78%;
+  right: 1%;
+  top: 30%;
+}
+
+.txt-488 {
+  font-size: 12px;
+  font-family: Inter, sans-serif;
+  font-weight: 500;
+  line-height: 127%;
+  color: rgba(255, 255, 255, 0.9);
+  width: 35px;
+  height: 13px;
+  word-wrap: break-word;
+}
+
+.playarrow {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  margin: auto;
+  margin-bottom: auto;
+}
