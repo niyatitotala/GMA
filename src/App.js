@@ -10,7 +10,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ContentList />
+        <div className="outer flex-row">
+          <Nav className="navbar" />
+          <div className="flex-column">
+            <Header />
+            <ContentList className="contentalign" />
+          </div>
+        </div>
       </header>
     </div>
   );

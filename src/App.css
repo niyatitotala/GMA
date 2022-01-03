@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.outer {
+  width: 1440px;
+  height: 1925px;
+  background: #020005;
+}
+
+.contentalign {
+  display: flex;
+  align-self: center;
+  padding: 200px;
+  box-sizing: border-box;
+}
